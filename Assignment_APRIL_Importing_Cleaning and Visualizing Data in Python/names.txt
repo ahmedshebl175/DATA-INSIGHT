@@ -1,0 +1,7 @@
+NAME	AGE	COUNTRY
+Ahmed	44	Egypt
+Ali 	45	USA
+Mona	23	Oman
+Dina	35	France
+John	21	England
+Mark	39	Cameron
